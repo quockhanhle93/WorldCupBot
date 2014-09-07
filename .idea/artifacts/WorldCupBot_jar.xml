@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="WorldCupBot:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WorldCupBot_jar</output-path>
+    <root id="root">
+      <element id="archive" name="WorldCupBot.jar">
+        <element id="module-output" name="WorldCupBot" />
+      </element>
+      <element id="library" level="project" name="google-gson-2.2" />
+      <element id="library" level="project" name="jsoup-1.7.3" />
+      <element id="library" level="project" name="pircbot" />
+    </root>
+  </artifact>
+</component>

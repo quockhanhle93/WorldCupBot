@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: gson-2.2.4.jar gson-2.2.4-javadoc.jar gson-2.2.4-sources.j
+ ar jsoup-1.7.3.jar pircbot.jar
+Main-Class: WorldCupBot
+
